@@ -1,7 +1,5 @@
 show databases;
 
-use fingertips;
-
 #Q1 Import Data from both the .CSV files to create tables, Listings and Booking Details.
 show tables;
 select * from listings;
